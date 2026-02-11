@@ -1,0 +1,3 @@
+## Arc V: Paradise Lost
+
+*The unintended consequences of smart product adoption: how convenience becomes surveillance, features become dependencies, and innovation creates new forms of inequality. This arc examines the security, privacy, and social challenges that emerge when products become platforms, and explores approaches for building smart tangibles that enhance human* agency rather than diminishing it.**

@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc:*)",
+      "Bash(ls:*)",
+      "Bash(quarto render:*)",
+      "Bash(for f in Chapter-*.qmd)",
+      "Bash(do echo \"Rendering $f...\")",
+      "Bash(done)",
+      "Bash(docker info:*)",
+      "Bash(docker pull:*)",
+      "Bash(curl:*)",
+      "Bash(docker logs:*)",
+      "Bash(docker exec:*)",
+      "Bash(docker port:*)",
+      "Bash(docker stop:*)",
+      "Bash(docker rm:*)",
+      "Bash(docker run:*)",
+      "Bash(brew uninstall:*)",
+      "WebSearch",
+      "Bash(chmod:*)",
+      "Bash(source ~/.zshrc)",
+      "Bash(python3:*)",
+      "Bash(diff:*)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "clean-cut-mcp"
+  ]
+}
